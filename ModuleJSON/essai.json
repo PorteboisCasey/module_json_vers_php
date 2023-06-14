@@ -1,0 +1,30 @@
+{
+  "beneficiaire": [
+    {
+      "nom": "John Doe",
+      "age": 30
+    },
+    {
+      "nom": "Jane Smith",
+      "age": 35
+    },
+    {
+      "nom": "Alice Johnson",
+      "age": 28
+    }
+  ],
+  "produit": [
+    {
+      "nom": "Ordinateur",
+      "prix": 1000
+    },
+    {
+      "nom": "Téléphone",
+      "prix": 500
+    },
+    {
+      "nom": "Tablette",
+      "prix": 300
+    }
+  ]
+}
